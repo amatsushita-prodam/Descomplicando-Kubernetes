@@ -1,1 +1,1 @@
-# Descomplicadno Kubernetes
+# Descomplicando Kubernetes
